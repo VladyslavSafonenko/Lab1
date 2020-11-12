@@ -1,3 +1,5 @@
+FILE IS NOW IN STAGING AREA!
+
 Лабораторная работа №1. 
 Система управления версиями Git, Web-сервис GitHub
 
