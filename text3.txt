@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 FILE IS NOW IN STAGING AREA!
 
+=======
+>>>>>>> 44e3fed... First commit with 3 .txt's
 Лабораторная работа №1. 
 Система управления версиями Git, Web-сервис GitHub
 
